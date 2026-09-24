@@ -1,4 +1,4 @@
-CAREGORIA: Fundamentos tradicionales de Project Management Body of Knowledge
+CATEGORIA: Fundamentos Tradicionales PMBOK
 Pregunta 1: ¿Cual es la duración máxima recomendada de un daily scrum?
 A) 30 minutos
 B) 15 minutos
